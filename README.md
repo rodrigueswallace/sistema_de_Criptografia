@@ -38,4 +38,9 @@ Sinta-se à vontade para contribuir com melhorias para este programa. Você pode
 
 ## imagem do Exercício
 
-![primeira imagem](sistema_de_Criptografia/file.jpeg)
+## Imagens
+
+![Descrição da primeira imagem](sistema_de_Criptografia/file_one.jpeg)
+
+![Descrição da segunda imagem](sistema_de_Criptografia/file_two.jpeg)
+
