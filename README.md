@@ -40,8 +40,8 @@ Sinta-se à vontade para contribuir com melhorias para este programa. Você pode
 
 ## Imagens
 
-![Imagem 1](./sistema_de_Criptografia/file_one.jpeg)
+![file_one](https://github.com/rodrigueswallace/sistema_de_Criptografia/assets/107448551/1f736168-76f9-42db-8f3f-805b501e6140)
 
-![Imagem 2](./sistema_de_Criptografia/file_two.jpeg)
+![file_two](https://github.com/rodrigueswallace/sistema_de_Criptografia/assets/107448551/72ecd64b-21bd-43b9-b278-5ce51c10ca01)
 
 
