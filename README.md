@@ -40,7 +40,6 @@ Sinta-se à vontade para contribuir com melhorias para este programa. Você pode
 
 ## Imagens
 
-![Descrição da primeira imagem](sistema_de_Criptografia/file_one.jpeg)
-
-![Descrição da segunda imagem](sistema_de_Criptografia/file_two.jpeg)
+![Imagem 1](sistema_de_Criptografia/file_one.jpeg)
+![Imagem 2](sistema_de_Criptografia/file_two.jpeg)
 
