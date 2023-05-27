@@ -36,4 +36,6 @@ Por fim, a mensagem decodificada é impressa na tela.
 
 Sinta-se à vontade para contribuir com melhorias para este programa. Você pode criar um fork deste repositório, fazer as alterações desejadas e enviar um pull request.
 
-Esperamos que esse sistema de criptografia seja útil para você e para outros desenvolvedores interessados em segurança da informação.
+## imagem do Exercício
+
+![primeira imagem](file.jpeg)
